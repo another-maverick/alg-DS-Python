@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03a1e8ab-7dc4-4b52-959d-3b260891bed8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/palindrome_permutation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindrome_permutation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../URLify/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URLify/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../compare_strings_permutation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../compare_strings_permutation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../compare_strings_permutation/compare_strings_permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../compare_strings_permutation/compare_strings_permutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/palindrome_permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/palindrome_permutation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../set1/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../set1/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../set1/.idea/set1.iml" beforeDir="false" />
@@ -29,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/palindrome_permutation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+            <state relative-caret-position="273">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="e#1#32#0" expanded="true" />
               </folding>
@@ -58,8 +54,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="16" />
-    <option name="y" value="27" />
+    <option name="x" value="313" />
+    <option name="y" value="532" />
     <option name="width" value="1359" />
     <option name="height" value="819" />
   </component>
@@ -112,15 +108,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569907545676</updated>
-      <workItem from="1569907557126" duration="1079000" />
+      <workItem from="1569907557126" duration="1426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1079000" />
+    <option name="totallyTimeSpent" value="1426000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="16" y="27" width="1359" height="819" extended-state="0" />
+    <frame x="313" y="532" width="1359" height="819" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -152,8 +148,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/palindrome_permutation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+        <state relative-caret-position="273">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="e#1#32#0" expanded="true" />
           </folding>

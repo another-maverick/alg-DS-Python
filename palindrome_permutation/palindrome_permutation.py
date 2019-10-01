@@ -9,7 +9,7 @@ def permutataion_panlindrome(input_string):
 
     c = Counter(str_without_spaces)
     for each_letter  in c:
-        if c[each_letter] < 2:
+        if c[each_letter] % 2 != 0:
             non_doubles += 1
     if non_doubles > 1:
         print( "No!!! The permutations don't result in a Palindrome" )
@@ -17,7 +17,7 @@ def permutataion_panlindrome(input_string):
     print("Yes!!! The permutations result in a Palindrome")
     return True
 
-permutataion_panlindrome("taco cat")
+#permutataion_panlindrome("taco cat")
 
 class Test(unittest.TestCase):
     set_of_strings = [("malayalam", True),("heeh ollo",True),("Hello", False)]
